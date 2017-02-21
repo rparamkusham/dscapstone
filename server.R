@@ -11,5 +11,6 @@ shinyServer(
         output$text2 <- renderText({
             paste(filter_text(get_pred(input$input_str)))
         })
+        
     }
 )
