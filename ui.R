@@ -7,8 +7,8 @@ shinyUI(fluidPage(
         column(12,
             br(),
             h4("This application suggests the next word in a phrase."),
-            h4("To run the application: type a phrase in the first box"),
-            h4("The second box will show the predicted next word of your phrase."),
+            h5("1. To run the application: type a phrase in the first box (Input Box)"),
+            h5("2. The second box (Output Box) will show the predicted next word of your phrase."),
             br(),
             br()
         )
