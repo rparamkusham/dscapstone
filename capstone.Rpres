@@ -1,7 +1,11 @@
-Predictive Algorithm: Data Science Capstone Project (www.Coursera.com)
+Predictive Algorithm: Data Science Capstone Project
 ========================================================
-Author:  Ramesh Paramkusham
-Date: Feb 26, 2017
+
+
+            Author:  Ramesh Paramkusham
+
+
+                  Feb 26, 2017
 
 Introduction
 ========================================================
