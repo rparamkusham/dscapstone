@@ -14,5 +14,5 @@ This repository contains the following files/folders:
 4. capstone.Rpres: R presentation file describing the application.
 5. milestone.Rmd: Project milestone report.
 6. data: Folder of data objects for Shiny application.
-7. capstoneUsing.jpg: Images for R presentation.
+7. DS_Capstone_Usage.JPG: Images for R presentation.
 # dscapstone
